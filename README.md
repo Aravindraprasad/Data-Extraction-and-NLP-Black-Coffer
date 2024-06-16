@@ -1,34 +1,20 @@
 
 # Project Title & Description
 
-Data-Extraction-and-NLP : Black-Coffer 
+Data-Extraction-and-NLP 
+
+ Black-Coffer assignment link : https://drive.google.com/drive/u/0/mobile/folders/1ltdsXAS_zaZ3hI-q9eze_QCzHciyYAJY?usp=sharing 
 
 
 ## Screenshots
 
-# Input excel file with urls
+Input excel file with urls
 ![Alt Text](https://github.com/Aravindraprasad/Data-Extraction-and-NLP-Black-Coffer/blob/main/Project%20Images/input_xlsx_file.jpg?raw=True)
 
-# Output exceel file with Analysis
-
+Output exceel file with Analysis
 
 ![Alt Text](https://github.com/Aravindraprasad/Data-Extraction-and-NLP-Black-Coffer/blob/main/Project%20Images/output_xlsx_file.jpg?raw=True)
 
-
-# Project Title & Description
-
-Data-Extraction-and-NLP : Black-Coffer assignment link : https://drive.google.com/drive/u/0/mobile/folders/1ltdsXAS_zaZ3hI-q9eze_QCzHciyYAJY?usp=sharing
-
-
-## Screenshots
-
-# Input Excel file with URLs
-![Alt Text](https://github.com/Aravindraprasad/Data-Extraction-and-NLP-Black-Coffer/blob/main/Project%20Images/input_xlsx_file.jpg?raw=True)
-
-# Output Excel file with Analysis
-
-
-![Alt Text](https://github.com/Aravindraprasad/Data-Extraction-and-NLP-Black-Coffer/blob/main/Project%20Images/output_xlsx_file.jpg?raw=True)
 
 # Explaining approached  solution:
 
