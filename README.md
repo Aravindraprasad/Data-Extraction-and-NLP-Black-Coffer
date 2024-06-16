@@ -1,7 +1,7 @@
 
 # Project Title & Description
 
-Data-Extraction-and-NLP : Black-Coffer 
+Data-Extraction-and-NLP : Black-Coffer assignment link : https://drive.google.com/drive/u/0/mobile/folders/1ltdsXAS_zaZ3hI-q9eze_QCzHciyYAJY?usp=sharing
 
 
 ## Screenshots
@@ -18,7 +18,7 @@ Data-Extraction-and-NLP : Black-Coffer
 
 Input: "input.xlsx" file containing article URLs with IDs.
 Output: Text files named after URL_IDs containing extracted article text (title and body).
-Libraries: BeautifulSoup, Selenium, Scrapy (choose one).
+Libraries: BeautifulSoup.
 
 # Extraction Logic
 Download article content using the chosen library.
