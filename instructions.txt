@@ -1,0 +1,38 @@
+A.explaining how I approached the solution:
+
+Step 1 
+Environment Setup
+Install necessary Python packages: nltk, requests, pandas, beautifulsoup4, and openpyxl
+
+Step 2 
+Text Extraction:
+For each URL in Input.xlsx fetch the HTML content parse it to extract the article's text and save it to a text file in the articles folder
+
+Step 3
+Text Preprocessing:
+Convert the text to lowercase remove punctuation and filter out stop words 
+
+Step 4
+Sentiment Analysis:
+Calculate Positive Score by counting the number of positive words
+Calculate Negative Score by counting the number of negative words
+Compute Polarity Score and Subjectivity Score using provided formulas
+
+Step 5
+Results:
+Computed data with the input data and save the results to Output Data Structure.xlsx
+
+B. How to run the .py file to generate output
+
+Step 1:
+pip install -r requirements.txt
+
+Step 2:
+If Folder is in Zip formate then Unzip it
+
+Step 3:
+Run the python file
+
+C.Include all dependencies required
+
+Dependencies are in requirements.txt file
